@@ -1,1 +1,1 @@
-Line 1\#!bin/bash Line 2\ echo "School" 
+Line 1\#!/bin/bash Line2cho "School" 
