@@ -1,1 +1,2 @@
-Line 1\#!/bin/bash Line2cho "ALX" 
+#!/bin/bash
+echo "ALX" 
